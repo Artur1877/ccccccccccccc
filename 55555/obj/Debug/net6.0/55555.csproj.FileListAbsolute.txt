@@ -1,0 +1,15 @@
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.AssemblyInfo.cs
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\qqqqq\www\55555\bin\Debug\net6.0\55555.exe
+C:\Users\Артур\Desktop\qqqqq\www\55555\bin\Debug\net6.0\55555.deps.json
+C:\Users\Артур\Desktop\qqqqq\www\55555\bin\Debug\net6.0\55555.runtimeconfig.json
+C:\Users\Артур\Desktop\qqqqq\www\55555\bin\Debug\net6.0\55555.dll
+C:\Users\Артур\Desktop\qqqqq\www\55555\bin\Debug\net6.0\55555.pdb
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.dll
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\refint\55555.dll
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.pdb
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\55555.genruntimeconfig.cache
+C:\Users\Артур\Desktop\qqqqq\www\55555\obj\Debug\net6.0\ref\55555.dll
