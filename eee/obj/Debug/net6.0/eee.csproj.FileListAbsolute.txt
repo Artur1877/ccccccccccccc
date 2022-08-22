@@ -1,0 +1,15 @@
+C:\Users\Артур\Desktop\qqqqq\www\eee\bin\Debug\net6.0\eee.exe
+C:\Users\Артур\Desktop\qqqqq\www\eee\bin\Debug\net6.0\eee.deps.json
+C:\Users\Артур\Desktop\qqqqq\www\eee\bin\Debug\net6.0\eee.runtimeconfig.json
+C:\Users\Артур\Desktop\qqqqq\www\eee\bin\Debug\net6.0\eee.dll
+C:\Users\Артур\Desktop\qqqqq\www\eee\bin\Debug\net6.0\eee.pdb
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.AssemblyInfo.cs
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.dll
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\refint\eee.dll
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.pdb
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\eee.genruntimeconfig.cache
+C:\Users\Артур\Desktop\qqqqq\www\eee\obj\Debug\net6.0\ref\eee.dll
