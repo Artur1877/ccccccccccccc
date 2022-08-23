@@ -1,0 +1,15 @@
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.AssemblyInfo.cs
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\qqqqq\www\777\bin\Debug\net6.0\777.exe
+C:\Users\Артур\Desktop\qqqqq\www\777\bin\Debug\net6.0\777.deps.json
+C:\Users\Артур\Desktop\qqqqq\www\777\bin\Debug\net6.0\777.runtimeconfig.json
+C:\Users\Артур\Desktop\qqqqq\www\777\bin\Debug\net6.0\777.dll
+C:\Users\Артур\Desktop\qqqqq\www\777\bin\Debug\net6.0\777.pdb
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.dll
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\refint\777.dll
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.pdb
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\777.genruntimeconfig.cache
+C:\Users\Артур\Desktop\qqqqq\www\777\obj\Debug\net6.0\ref\777.dll
